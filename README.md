@@ -1,2 +1,2 @@
 # my-web
-minr
+mine
